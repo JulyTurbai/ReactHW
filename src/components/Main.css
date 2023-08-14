@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+.BooksLife {
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+}

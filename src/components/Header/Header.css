@@ -1,0 +1,14 @@
+.header {
+    width: 900px;
+    height: 60px;
+    border: 2px solid rgb(161, 144, 112);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(173, 128, 60);
+}

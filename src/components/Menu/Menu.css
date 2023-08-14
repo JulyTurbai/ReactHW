@@ -1,0 +1,15 @@
+.menu-items {
+    display: flex;
+}
+.menu-items__item {
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+#header {
+    color: rgb(71, 51, 7);
+}
+
+#header:hover {
+    color: rgb(161, 131, 64);
+}

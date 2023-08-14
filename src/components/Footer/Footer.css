@@ -1,0 +1,30 @@
+.footer {
+    width: 900px;
+    height: 60px;
+    background-color: rgb(48, 26, 5);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-block__logo {
+    color: rgb(153, 127, 93);
+    margin-right: 50px;
+}
+
+#footer {
+    color: rgb(163, 139, 110);
+    font-weight: bold;
+}
+
+#footer:hover {
+    color: rgb(211, 166, 112);
+    font-weight: bold;
+}
